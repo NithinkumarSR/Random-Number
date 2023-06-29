@@ -57,7 +57,7 @@ w();
 const img=document.querySelector('.img');
 const inc=function(){
   let c=Math.trunc(Math.random()*6)+1;
-   img.src=`/image/dice-${c}.png`;
+   img.src=`/Random-Number/image/dice-${c}.png`;
    res+=Number(c) ;
    w();
    img.classList.remove('hidden');
