@@ -13,8 +13,8 @@ img{
 }
 .player{
     position: relative;
-   margin-top: 100px;
-    margin-left: 500px;
+   margin: 10vh auto;
+    /* margin-left: 500px; */
     border: solid hsl(0, 7%, 11%) 1px;
     border-radius: 10px;
     height: 700px;
